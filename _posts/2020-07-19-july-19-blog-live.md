@@ -15,9 +15,7 @@ I will put leet here. And thoughts and ideas.
 All blogs are written via markdown
 
 
-
-![Crepe](/_post_images/30362574.png)
-![Crepe](/assets/img/new-thumb.png)
+![test](../_post_images/30362574.png)
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 

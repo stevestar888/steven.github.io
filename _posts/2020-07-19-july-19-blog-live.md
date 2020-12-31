@@ -22,6 +22,7 @@ Ideas will go here.
 
 
 ![Crepe](/_post_images/30362574.png)
+![Crepe](/assets/img/new-thumb.png)
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 

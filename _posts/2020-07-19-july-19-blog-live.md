@@ -1,23 +1,18 @@
 ---
 layout: post
-title: July 19—the day this blog goes live
+title: This site goes live
 subtitle: Today is an exceptional Sunday, because this website & blog is now live
 cover-img: /assets/img/spiderman.jpg
 thumbnail-img: /assets/img/new-thumb.png
 share-img: /assets/img/path.jpg
-tags: [admin, happy, music]
+tags: [meta, happy]
 ---
 
 # Weclome! 
 I will put leet here. And thoughts and ideas.
 
 ## Ideas
-Ideas will go here.
-Ideas will go here.
-Ideas will go here.
-Ideas will go here.
-Ideas will go here.
-Ideas will go here.
+All blogs are written via markdown
 
 
 

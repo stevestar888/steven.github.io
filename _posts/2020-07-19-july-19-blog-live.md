@@ -21,7 +21,11 @@ Ideas will go here.
 
 
 
-![Crepe](/_post_images/30362574.png){: .mx-auto.d-block :}
+![Crepe](/_post_images/30362574.png)
+
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 ## Code 
 ```cpp

@@ -2,9 +2,9 @@
 layout: post
 title: This site goes live
 subtitle: Today is an exceptional Sunday, because this website & blog is now live
-cover-img: /_post_images/mc.png
-thumbnail-img: /_post_images/dfd.png
-share-img: /_post_images/123.png
+cover-img: /imgs/mc.png
+thumbnail-img: /imgs/dfd.png
+share-img: /imgs/123.png
 tags: [meta, happy]
 ---
 
@@ -15,9 +15,9 @@ I will put leet here. And thoughts and ideas.
 All blogs are written via markdown
 
 
-![test](../_post_images/30362574.png)
+![test](../imgs/30362574.png)
 
-![f](/_post_images/mc.png)
+![f](/imgs/mc.png)
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 

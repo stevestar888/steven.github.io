@@ -19,8 +19,11 @@ Ideas will go here.
 Ideas will go here.
 Ideas will go here.
 
+![Crepe](_post_images/30362574.png){: .mx-auto.d-block :}
+
 ## Code 
-```vector<int> pancakeSort( const vector<int>& arr ) 
+```cpp
+vector<int> pancakeSort( const vector<int>& arr ) 
 {
   vector<int> result(arr);
   

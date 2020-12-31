@@ -13,12 +13,12 @@ author: "Steven Xu"
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
+  Blog: ""
+  Tag Index: "tags"
+  Cool Projects:
     - Bowdoin Orient Website: "https://bowdoinorient.com"
     - Daily Leetcode Practice: "https://github.com/stevestar888/leetcode-problems"
     - Google Power Search: "http://google-power-search.rf.gd/?i=1"
-  Blog: ""
-  Tag Index: "tags"
 
 # --- Logo --- #
 

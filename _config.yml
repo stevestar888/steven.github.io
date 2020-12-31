@@ -40,36 +40,36 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "hxu@bowdoin.edu"
-  # facebook: deanattali
-  github: stevestar888
-  # twitter: stevestar888 
-  # rss: true
-  # reddit: stevestar888
+  calendly: steven_
   linkedin: hanbo-steven-xu/
-#  xing: yourname
+  github: stevestar888
   stackoverflow: "5737244/stevestar888"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  # rss: true
+  # twitter: yourname 
+  # reddit: yourname
+  # xing: yourname
+  # facebook: yourname
+  # snapchat: yourname
+  # instagram: yourname
+  # youtube: user/yourname
+  # spotify: yourname
+  # telephone: +14159998888
+  # steam: deanat78
+  # twitch: yourname
+  # yelp: yourname
+  # telegram: yourname
+  # mastodon: instance.url/@username
+  # ORCID: your ORCID ID
+  # google-scholar: your google scholar
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
   linkedin: true
-  vk: false
+  facebook: true
+  vk: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -124,7 +124,7 @@ footer-link-col: "#404040"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "stevestar888-github-io"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""

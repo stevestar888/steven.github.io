@@ -15,9 +15,8 @@ Well, that brings us till now. I first set up this website/blog in July 2020, bu
 
 That one person…? It’s me.
 
-Full disclosure: this website is powered by GitHub Pages using Jekyll. In fact, it’s using the ![beautiful 
-jekyll theme](https://beautifuljekyll.com). I’m only techy enough to know how to use other people’s creations, and that’s good enough for me. Funny enough, I did make one ![contribution to to the official jekyll repo](https://github.com/jekyll/jekyll/pull/8306/commits/05479c6796ec1510e7f8b83a9faf5f1f4ee31986). (Spoiler alert: it fixes grammar lol.)
+Full disclosure: this website is powered by GitHub Pages using the [beautiful jekyll theme](https://beautifuljekyll.com). So that's right, I didn't code a frontend or backend, I didn't use a webserver. I’m only techy enough to know how to use other people’s creations, and that’s good enough for me. Funny enough, I did make one [contribution to to the official jekyll repo](https://github.com/jekyll/jekyll/pull/8306/commits/05479c6796ec1510e7f8b83a9faf5f1f4ee31986). (You'll never guess what the fix is lol)
 
-![](../imgs/end-marks/end-mark1.png)
+![my custom end mark](../imgs/end-marks/end-mark1.png)
 
 Edit Jan 4, 2020: removing all of the filler junk from July 19, 2020; literally rewritting all of the content.

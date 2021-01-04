@@ -19,7 +19,7 @@ All blogs are written via markdown
 
 ![f](/imgs/mc.png)
 
-![f](/_posts/2020-07-19/4%20monsters.jpeg)
+![f](/_posts/2020-07-19/monsters.jpeg)
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 

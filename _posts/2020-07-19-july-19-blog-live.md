@@ -2,64 +2,22 @@
 layout: post
 title: This site goes live
 subtitle: Today is an exceptional Sunday, because this website & blog is now live
-cover-img: /imgs/mc.png
-thumbnail-img: /imgs/dfd.png
-share-img: /imgs/123.png
+cover-img: /imgs/2020-07-19/dcs.png
+thumbnail-img: 
+share-img: 
 tags: [meta, happy]
 ---
 
-# Weclome! 
-I will put leet here. And thoughts and ideas.
+# Hello World
+One time, back at college (before the pandemic), I was talking with a good friend. She recently wrote an article on a pop culture topic for a publication on campus. Although I normally would glance over an article about that topic, here I knew the author so it read (not necessarily understood) the article. It was honestly really well written and her passion was palpable—and that’s exactly what I told her when I saw her next. She thanked me for the encouragement, but what I didn’t except was that she then said, “yeah, writing papers can become a drag, but writing for fun is… well fun.” In the moment, I wasn’t sure how to respond. I resonated with what she said—yes—but it made me think when the last time I wrote just to write? All the writing I’ve done in my life has been for some purpose. Sorry friend, I didn’t have anything constructive to say back.
 
-## Ideas
-All blogs are written via markdown
+Well, that brings us till now. I first set up this website/blog in July 2020, but now it’s half a year later in 2020 when I’m actually writing something concrete. Back then, I was hard on the leetcode grind, so I was probably thinking of posting those unique/fun solutions that I came up with, but I don’t think that’s really necessary anymore. However, I do have high hopes that a good looking website—that is entirely mine MWHAHAHA—will inspire me to jot down some thoughts. They may not be well formed, but I will have at least one reader, and if it informs that one person and makes them think more introspectively about their life, then that’s good enough for me. 
 
+That one person…? It’s me.
 
-![test](../imgs/30362574.png)
+Full disclosure: this website is powered by GitHub Pages using Jekyll. In fact, it’s using the ![beautiful 
+jekyll theme](https://beautifuljekyll.com). I’m only techy enough to know how to use other people’s creations, and that’s good enough for me. Funny enough, I did make one ![contribution to to the official jekyll repo](https://github.com/jekyll/jekyll/pull/8306/commits/05479c6796ec1510e7f8b83a9faf5f1f4ee31986). (Spoiler alert: it fixes grammar lol.)
 
-![f](/imgs/mc.png)
+![](../imgs/end-marks/end-mark1.png)
 
-![f](/_posts/2020-07-19/monsters.jpeg)
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-## Code 
-```cpp
-vector<int> pancakeSort( const vector<int>& arr ) 
-{
-  vector<int> result(arr);
-  
-  int n = result.size();
-  
-  int cm = getMax(result, n);
-  
-  int cnt = 1;
-  
-  for (int i = 0; cnt <= result.size(); i++) {
-     if (result[i] == cm) {
-       flip(result, i);
-       flip(result, n-cnt);
-       cm = getMax(result, n-cnt);
-       i = 0;
-       cnt++;
-     }
-      
-  }
-  
-  return result;
-  
-}
-
-int main() {
-  
-  vector<int> a = {1, 5, 4, 3, 2};
-  
-  vector<int> res = pancakeSort(a);
-  
-  for (auto i : res) cout << i  << " ";
-  
-  return 0;
-}
-```
+Edit Jan 4, 2020: removing all of the filler junk from July 19, 2020; literally rewritting all of the content.

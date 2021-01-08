@@ -13,13 +13,13 @@ author: "Steven Xu"
 
 navbar-links:
   Home: "home"
-  Find out...:
-    - more about me: "about-me"
+  Find out more about...:
+    - my background: "about-me"
     - what I'm learning: "learning"
     - how to reach out: "contact"
-  Blog:
-    - All: "/"
-    - By Tag Index: "tags"
+  Personal Blog:
+    - All posts: "/"
+    - Posts by Tags: "tags"
   Cool Projects:
     - Bowdoin Orient Website: "https://bowdoinorient.com"
     - Daily Leetcode Practice: "https://github.com/stevestar888/leetcode-problems"
@@ -29,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/animated.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true

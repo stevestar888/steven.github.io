@@ -12,11 +12,14 @@ author: "Steven Xu"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: 
-    - Bio: "aboutme"
-    - What I'm Learning: "learning"
-  Blog: "/"
-  Tag Index: "tags"
+  Home: "home"
+  Find out...:
+    - more about me: "about-me"
+    - what I'm learning: "learning"
+    - how to reach out: "contact"
+  Blog:
+    - All: "/"
+    - By Tag Index: "tags"
   Cool Projects:
     - Bowdoin Orient Website: "https://bowdoinorient.com"
     - Daily Leetcode Practice: "https://github.com/stevestar888/leetcode-problems"

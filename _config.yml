@@ -13,11 +13,11 @@ author: "Steven Xu"
 
 navbar-links:
   Home: "home"
-  Find out more about...:
+  Find out about...:
     - my background: "about-me"
     - what I'm learning: "learning"
     - how to reach out: "contact"
-  Personal Blog:
+  My Blog:
     - All posts: "/"
     - Posts by Tags: "tags"
   Cool Projects:

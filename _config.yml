@@ -12,7 +12,8 @@ author: "Steven Xu"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-    - About Me: "aboutme"
+  About Me: 
+    - Bio: "aboutme"
     - What I'm Learning: "learning"
   Blog: "/"
   Tag Index: "tags"

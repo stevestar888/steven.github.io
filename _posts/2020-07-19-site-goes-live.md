@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This site goes live
+title: This Site Goes Live
 subtitle: Today is an exceptional Sunday, because this website & blog is now live
 cover-img: /imgs/2020-07-19/dcs.png
 thumbnail-img: 

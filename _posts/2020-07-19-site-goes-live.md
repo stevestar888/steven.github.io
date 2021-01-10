@@ -1,14 +1,14 @@
 ---
 layout: post
-title: This Site Goes Live
-subtitle: Today is an exceptional Sunday, because this website & blog is now live
-cover-img: /imgs/2020-07-19/dcs.png
+title: July 19: This Site Goes Live
+subtitle: Today is an exceptional Sunday, because this website / blog / jekyll project is now live
+cover-img: 
 thumbnail-img: 
 share-img: 
 tags: [meta, happy]
 ---
 
-Hello World! This blog is now live.
+"Hello World", my friend! Do you like this new Haiku? But first, a story.
 
 ## A Quick Story
 One time, back at college (before the pandemic), I was talking with a good friend. She recently wrote an article on a pop culture topic for a publication on campus. Although I normally would glance over an article about that topic, here I knew the author so it read (not necessarily understood) the article. It was honestly really well written and her passion was palpable—and that’s exactly what I told her when I saw her next. She thanked me for the encouragement, but what I didn’t except was that she then said, “yeah, writing papers can become a drag, but writing for fun is… well fun.” In the moment, I wasn’t sure how to respond. I resonated with what she said—yes—but it made me think when the last time I wrote just to write? All the writing I’ve done in my life has been for some purpose. Sorry friend, I didn’t have anything constructive to say back.

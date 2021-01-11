@@ -2,7 +2,7 @@
 layout: post
 title: "July 19: This Site Goes Live"
 subtitle: Today is an exceptional Sunday, because this website / blog / jekyll project is now live
-cover-img: 
+cover-img: imgs/blank.png
 thumbnail-img: 
 share-img: 
 tags: [meta, happy]

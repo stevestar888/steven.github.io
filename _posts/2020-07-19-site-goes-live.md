@@ -20,6 +20,6 @@ That one person…? It’s me.
 ## Disclosure
 This website is powered by GitHub Pages using the [beautiful jekyll theme](https://beautifuljekyll.com). So that's right, I didn't code a frontend or backend, I didn't use a webserver. I’m only techy enough to know how to use other people’s creations, and that’s good enough for me. Funny enough, I did make one [contribution to to the official jekyll repo](https://github.com/jekyll/jekyll/pull/8306/commits/05479c6796ec1510e7f8b83a9faf5f1f4ee31986). (You'll never guess what the fix is lol.)
 
-![my custom end mark](../imgs/end-marks/end-mark2.png)
+![my custom end mark](../imgs/end-marks/end-mark2.png){:height="40px" width="40px"}
 
 Edit Jan 4, 2020: removing all of the filler junk from July 19, 2020; literally rewritting all of the content.

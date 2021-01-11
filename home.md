@@ -1,5 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Here's why you'd want to go on a date with me (or not)
+title: Welcome to my website / blog
+subtitle: Regardless of how you stumbled across this, or how long you spend here, I'm glad you joined me
 ---
+
+Feel free to click around. 
+
+The 404 error page is pretty fun!

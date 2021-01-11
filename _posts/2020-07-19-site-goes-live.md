@@ -1,6 +1,6 @@
 ---
 layout: post
-title: July 19: This Site Goes Live
+title: "July 19: This Site Goes Live"
 subtitle: Today is an exceptional Sunday, because this website / blog / jekyll project is now live
 cover-img: 
 thumbnail-img: 

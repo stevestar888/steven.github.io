@@ -3,7 +3,7 @@ layout: post
 title: "July 19: This Site Goes Live"
 subtitle: Today is an exceptional Sunday, because this website / blog / jekyll project is now live
 cover-img: /imgs/2020-07-19/aerial-foliage-c.jpg
-thumbnail-img: /
+thumbnail-img: 
 share-img: 
 tags: [meta, happy]
 ---

@@ -9,8 +9,15 @@ subtitle: courses, books, projects, etc.
 # 2020
 
 # Courses at College
-### CS 
-• Data Structures, 
-• algorithms 
+### Computer Science
+* Data Structures
+* Algorithms 
+* Theory of Computation
 
-### Non-CS
+### Non-CS STEM
+* How to Read a Million Books
+* Intro Physics
+* Multivariate Calculus
+
+### Just for fun
+* 

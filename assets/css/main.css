@@ -409,7 +409,7 @@ footer .theme-by {
 }
 footer .w3c-verified {
   float: center;
-  position: absolute;
+  /* position: absolute;  */
 }
 footer .footer-custom-content {
   text-align: center;

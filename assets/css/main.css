@@ -411,8 +411,7 @@ footer .w3c-verified {
   text-align: right;
   display: inline-block;
   position: absolute;
-  /* bottom: 80px;
-  right: 200px; */
+  right: 0;
 }
 footer .footer-custom-content {
   text-align: center;

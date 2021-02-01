@@ -410,10 +410,9 @@ footer .theme-by {
 footer .w3c-verified {
   /* text-align: right; */
   display: inline-block;
-  float: right;
   position: absolute;
-  bottom: 8px;
-  right: 16px;
+  bottom: 80px;
+  right: 80px;
 }
 footer .footer-custom-content {
   text-align: center;

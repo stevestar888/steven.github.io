@@ -408,6 +408,7 @@ footer .theme-by {
   margin: 0.625rem 0 0;
 }
 footer .w3c-verified {
+  margin: 1rem;
   text-align: center;
   /* display: inline-block; */
   /* position: absolute; */

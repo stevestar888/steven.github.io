@@ -22,8 +22,9 @@ navbar-links:
     - Posts by Tags: "tags"
   Cool Projects:
     - Bowdoin Orient Website: "https://bowdoinorient.com"
-    - Daily Leetcode Practice: "https://github.com/stevestar888/leetcode-problems"
+    - Bowdoin Facility Hours: "http://bowdoin-facility-hours.surge.sh/#loaded"
     - Google Power Search: "http://google-power-search.rf.gd/?i=1"
+    - Bowdoin "Fun" Menu: "http://bowdoin-menu-app.rf.gd"
 
 # --- Logo --- #
 

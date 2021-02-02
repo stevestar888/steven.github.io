@@ -31,6 +31,8 @@ Current dining hall menu page:
 Our attempt (we tried to make it look like the menu was actually printed out with real tabs on the left):
 ![picture of our bowdoin-menu-app](../imgs/2021-02-02/bowdoin-menu-app.png)
 
+Only Bowdoin '20 - '23 will know why Patrick Dempsey is here 👀 🌚
+
 [See the site](http://bowdoin-menu-app.rf.gd) for yourself, [view the submission](https://devpost.com/software/dining-hall-meal-maker) on devpost, or [inspect the code](https://github.com/stevestar888/bowdoin-menu-app) behind it.
 
 

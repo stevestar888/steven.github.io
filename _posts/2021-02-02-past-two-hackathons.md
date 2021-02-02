@@ -25,6 +25,7 @@ Instead, we made our own display and added a feature to “get a fun meal,” wh
 
 [See the site](http://bowdoin-menu-app.rf.gd) for yourself, [view the submission](https://devpost.com/software/dining-hall-meal-maker) on devpost, or [inspect the code](https://github.com/stevestar888/bowdoin-menu-app) behind it.
 
+
 ## Bowdoin Facility Hours (Spring 2020 for the Human-Computer Interaction class)
 After doing a bunch of brainstorming and needfinding, we found our technical abilities and peoples’ needs intersected at a web app that acts as one central place to find hours for common Bowdoin facilities. We found many people, to find the hours for a building, would search “Bowdoin _______ hours”. If, instead, they had our site bookmarked, finding the hours would take a few less steps and should be faster as well.
 

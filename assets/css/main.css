@@ -409,7 +409,7 @@ footer .theme-by {
 }
 footer .w3c-verified {
   text-align: center;
-  display: inline-block;
+  /* display: inline-block; */
   /* position: absolute; */
   /* right: -5rem;
   bottom: 1rem; */

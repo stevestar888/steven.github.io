@@ -21,7 +21,7 @@ As you type in the text boxes / select for filetype, your Google search string i
 
 
 ## Bowdoin "Fun" Menu (February 2021 during Texas A&M’s hackathon)
-Here, we realized there wasn’t enough “disruption” in the dining hall menu display space, so we took a stab at building something better. Originally, my idea was we’d pull the menu off Bowdoin’s website every day and you could sign up to get alerts if _______  was on the menu. You could choose to get a sms or email notification telling you which dining hall and which meal. We didn’t end doing this. 
+Here, we realized there wasn’t enough “disruption” in the dining hall menu display space, so we took a stab at building something better. Originally, my idea was we’d pull the menu off Bowdoin’s website every day and you could sign up to get alerts if [food] was on the menu. You could choose to get a sms or email notification telling you which dining hall and which meal. We didn’t end doing this. 
 
 Instead, we made our own display and added a feature to “get a fun meal,” which just randomly chooses a food from each food category 😂! The hardest part was actually trying to reverse engineer the menu API. At first, we were going to scrape the website, but Josh found a file literally called `dining-menu.js` and it sent a post request to a specific url. All we had to do was figure out the parameters, which was a bunch of educated guess-and-check.
 
@@ -35,7 +35,7 @@ Our attempt (we tried to make it look like the menu was actually printed out wit
 
 
 ## Bowdoin Facility Hours (Spring 2020 for the Human-Computer Interaction class)
-After doing a bunch of brainstorming and needfinding, we found our technical abilities and peoples’ needs intersected at a web app that acts as one central place to find hours for common Bowdoin facilities. We found many people, to find the hours for a building, would search “Bowdoin _______ hours”. If, instead, they had our site bookmarked, finding the hours would take a few less steps and should be faster as well.
+After doing a bunch of brainstorming and needfinding, we found our technical abilities and peoples’ needs intersected at a web app that acts as one central place to find hours for common Bowdoin facilities. We found many people, to find the hours for a building, would search “Bowdoin [facility] hours”. If, instead, they had our site bookmarked, finding the hours would take a few less steps and should be faster as well.
 
 ![picture of the bowdoin-facility-hours website we made for class](../imgs/2021-02-02/bowdoin-facility-hours.png)
 

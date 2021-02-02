@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What We Built For The Past Two Hackathons
+title: What We Built In The Last Two Hackathons
 subtitle: Get more out of Google search, generate a fun meal, and a bonus project
 gh-repo: stevestar888/
 gh-badge: [follow]
@@ -15,7 +15,12 @@ Nearly everyone uses Google to search the web, but there are actually some modif
 
 As you type in the text boxes / select for filetype, your Google search string is automatically generated. So, then, click the colorful search icon or press enter. While we didn’t include all operators, I think we covered most of the frequently used ones. Now, because I’m more familiar with the search operators, I’ll just manually type `filetype:pdf` or `site:reddit.com` because it rolls off the hand, but I find myself circling back to this for more involved searches.
 
-See the ![site](http://google-power-search.rf.gd) for yourself or view the ![code](https://github.com/stevestar888/google-power-search) behind it.
+[See the site](http://google-power-search.rf.gd) for yourself, [view the devpost submission](https://devpost.com/software/powerful-google-search), or [inspect the code](https://github.com/stevestar888/google-power-search) behind it.
 
 
 ## Bowdoin "Fun" Menu (February 2021 during Texas A&M’s hackathon)
+Here, we realized there wasn’t enough “disruption” in the dining hall menu display space, so we took a stab at building something better. Originally, my idea was we’d pull the menu off Bowdoin’s website every day and you could sign up to get alerts if _______  was on the menu. You could choose to get a sms or email notification telling you which dining hall and which meal. We didn’t end doing this. 
+
+Instead, we made our own display and added a feature to “get a fun meal,” which just randomly chooses a food from each food category 😂! The hardest part was actually trying to reverse engineer the menu API. At first, we were going to scrape the website, but Josh found a file literally called `dining-menu.js` and it sent a post request to a specific url. All we had to do was figure out the parameters, which was a bunch of educated guess-and-check.
+
+## Bowdoin Facility Hours (Spring 2020 for the Human-Computer Interaction class)

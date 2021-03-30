@@ -8,6 +8,7 @@ subtitle: courses, books, projects, etc.
 
 # 2020
 * COVID-19 Contact Tracing (Coursera)
+
 # Courses at College
 ### Computer Science
 * Data Structures
@@ -19,16 +20,14 @@ subtitle: courses, books, projects, etc.
 * Computer Systems
 * Operating Systems
 * Artificial Intelligence
-* Optimization and Uncertainty*
-*MDPs and Bayes Nets
+* Optimization and Uncertainty (MDPs and Bayes Nets)
 
 ### Non-CS STEM
-* How to Read a Million Books‡
-* AI in the World‡
+* How to Read a Million Books (Digital and Computational Studies)
+* AI in the World (Digital and Computational Studies)
 * Intro Physics
 * Integral Calculus
 * Multivariate Calculus
-‡Digital and Computational Studies department
   
 ### Just for fun
 * Chinese language 

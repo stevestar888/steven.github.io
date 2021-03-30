@@ -7,7 +7,7 @@ subtitle: courses, books, projects, etc.
 # 2021
 
 # 2020
-COVID-19 Contact Tracing (Coursera)
+* COVID-19 Contact Tracing (Coursera)
 # Courses at College
 ### Computer Science
 * Data Structures
@@ -19,8 +19,8 @@ COVID-19 Contact Tracing (Coursera)
 * Computer Systems
 * Operating Systems
 * Artificial Intelligence
-* Optimization and Uncertainty‡
-‡ MDPs and Bayes Nets
+* Optimization and Uncertainty*
+*MDPs and Bayes Nets
 
 ### Non-CS STEM
 * How to Read a Million Books‡

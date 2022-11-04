@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Here's why you'd want to go on a date with me (or not)
+subtitle: Here's why you'd want to become friends with me!
 ---
 
 My name is Steven Xu and I am currently a student at Bowdoin College studying Computer Science, while staying engaged in the breadth of the Liberal Arts curriculum. My time in college has been marked by developing a deeper grasp of the complexities of this world, as well as find out what I want to do next.

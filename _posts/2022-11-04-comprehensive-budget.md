@@ -5,5 +5,5 @@ subtitle: It also estimates taxes & can deal with income/expenses on a fortnight
 cover-img:
 thumbnail-img:
 share-img: 
-tags: [project, personal-finance]
+tags: [side-project, personal-finance]
 ---

@@ -8,4 +8,4 @@ share-img:
 tags: [side-project, personal-finance]
 ---
 
-![spreadsheet](../blog-assets/2022-11-04/Comprehensive%20Budget%20%5Btemplate%5D.xlsx){:height="36px" width="36px"}
+![spreadsheet](../blog-assets/2022-11-04/Comprehensive%20Budget%20%5Btemplate%5D.xlsx)

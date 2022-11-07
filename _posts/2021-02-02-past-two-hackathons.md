@@ -13,7 +13,7 @@ Here is what some friends and I made during the last two hackathons. “It’s n
 ## Google Power Search (June 2020 during Hack the Northeast)
 Nearly everyone uses Google to search the web, but there are actually some advanced operators you can use to further refine your search. For example, putting `filetype:pdf` after your query will yield you results that are only PDFs. Similarly, putting `“adobe flash”` after your query will show results that explicitly have “adobe flash”. So, in essence, we built a GUI that lets you use the advanced operators without having to remember them. 
 
-![picture of the google-power-search website](../imgs/2021-02-02/google-power-search.png)
+![picture of the google-power-search website](../blog-assets/2021-02-02/google-power-search.png)
 
 As you type in the text boxes / select a filetype, your Google search string is automatically generated. So, then, click the colorful search icon or press enter. While we didn’t include all operators, I think we covered most of the frequently used ones. Now, because I’m more familiar with the search operators, I’ll just manually type `filetype:pdf`, `“adobe flash”`, or `site:reddit.com` because it rolls off the hand, but I find myself circling back to this for more involved searches.
 
@@ -26,10 +26,10 @@ Here, we realized there wasn’t enough “disruption” in the dining hall menu
 Instead, we made our own display and added a feature to “get a fun meal,” which just randomly chooses a food from each food category 😂! The hardest part was actually trying to reverse engineer the menu API. At first, we were going to scrape the website, but Josh found a file literally called `dining-menu.js` and it sent a post request to a specific url. All we had to do was figure out the parameters, which was a bunch of educated guess-and-check.
 
 Current dining hall menu page:
-![picture of the bowdoin's dining hall menu](../imgs/2021-02-02/bowdoin-menu.png)
+![picture of the bowdoin's dining hall menu](../blog-assets/2021-02-02/bowdoin-menu.png)
 
 Our attempt (we tried to make it look like the menu was actually printed out with real tabs on the left):
-![picture of our bowdoin-menu-app](../imgs/2021-02-02/bowdoin-menu-app.png)
+![picture of our bowdoin-menu-app](../blog-assets/2021-02-02/bowdoin-menu-app.png)
 
 Only Bowdoin '20 - '23 will know why Patrick Dempsey is here 👀 🌚
 
@@ -39,10 +39,10 @@ Only Bowdoin '20 - '23 will know why Patrick Dempsey is here 👀 🌚
 ## Bowdoin Facility Hours (Spring 2020 for the Human-Computer Interaction class)
 After doing a bunch of brainstorming and needfinding, we found our technical abilities and peoples’ needs intersected at a web app that acts as one central place to find hours for common Bowdoin facilities. We found many people, to find the hours for a building, would search “Bowdoin [facility] hours”. If, instead, they had our site bookmarked, finding the hours would take fewer steps and should be faster as well.
 
-![picture of the bowdoin-facility-hours website we made for class](../imgs/2021-02-02/bowdoin-facility-hours.png)
+![picture of the bowdoin-facility-hours website we made for class](../blog-assets/2021-02-02/bowdoin-facility-hours.png)
 
 In hindsight, HCI was a really cool class. And you learn so much practical Front-end developer knowledge…
 
 [See the site](http://bowdoin-facility-hours.surge.sh/) for yourself. (No github because it was a school project.)
 
-![my custom end mark](../imgs/end-marks/end-mark3.png){:height="36px" width="36px"}
+![my custom end mark](../blog-assets/end-marks/end-mark3.png){:height="36px" width="36px"}

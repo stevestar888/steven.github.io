@@ -15,7 +15,7 @@ A couple of Bowdoin friends who just started working full-time this summer asked
 
 I wanted a budget that had more features, but was still very intuitive to use. I was trying to strike a balance between functionality and simplicity because my philosophy around making a budget is it gives you an idea of how much you can sustainably spend. Some weeks you may be over budget, some weeks you may be under budget—and both are OK. You'll be fine as long as you're not wildly off, which is why getting a sense of rough numbers by writing down income and expenses on a budget is so useful.
 
-I started by combing through spreadsheets online to get ideas about what I wanted (and didn’t want) to include. Funny enough, I used the "Google Power Search" tool to refine my search to only excel files (read me about that in [this post](https://stevestar888.github.io/2021-02-02-past-two-hackathons/#:~:text=Google%20Power%20Search%20(June%202020%20during%20Hack%20the%20Northeast))). The one I liked the most was (not even kidding) found on https://moneysmart.gov.au/budgeting/budget-planner, which looks like it was created by the Australian government of all people! 
+I started by combing through spreadsheets online to get ideas about what I wanted (and didn’t want) to include. Funny enough, I used the "Google Power Search" tool to refine my search to only excel files (read me about that in [this post](https://stevestar888.github.io/2021-02-02-past-two-hackathons/#:~:text=Google%20Power%20Search%20(June%202020%20during%20Hack%20the%20Northeast))). The one I liked the most was (not even kidding) found on [https://moneysmart.gov.au/budgeting/budget-planner](https://moneysmart.gov.au/budgeting/budget-planner#:~:text=Use%20our-,Excel%20spreadsheet,-version%20if%20you), which looks like it was created by the Australian government of all people! 
 
 ### I’ll talk about two cool things about this budget 🤓
 1. The spreadsheet is “frequency agnostic”, so you can enter a piece of income or an expense and then specify if it happens biweekly, monthly, quarterly, or yearly. Separately, you can toggle to see the budget in a biweekly, monthly, quarterly, or yearly view. For example, you can enter your annual salary and monthly rent, and see how your budget would look on a biweekly, monthly, quarterly, or yearly view. The only place I saw this feature was from the budget on that Australian government website, and I really like this feature. So I shamelessly stole it...
@@ -27,7 +27,7 @@ I started by combing through spreadsheets online to get ideas about what I wante
 
 2. You can toggle the frequency with cell H2! Please use this because it’s very cool and very borrowed!
 
-3. Inserting / deleting rows *shouldn’t* be a problem. But, just to be safe, it's probably better to just rename unused categories before inserting / deleting rows. If you must insert a new row, then make sure the sectional total adds up correctly still (alternatively, insert a row in the middle of a section).
+3. Inserting / deleting rows *technically shouldn’t* be a problem. But, just to be safe, it's probably better to just rename unused categories before inserting / deleting rows. If you must insert a new row, then make sure the sectional total adds up correctly still (alternatively, insert a row in the middle of a section).
 
 4. Some sections and rows probably won’t be applicable. Instead of outright deleting them, it may be easier to just hide it: click the row #, right click, click hide. 
 
@@ -40,7 +40,7 @@ While building this, I gained a more thorough understanding of the tax brackets.
 
 While building this, I was also reminded of how awesome excel is. Reminds me of this meme: 
 
-(The entire financial system is held up by excel)[../blog-assets/2022-11-04/excel_meme.png]
+[The entire financial system is held up by excel](../blog-assets/2022-11-04/excel_meme.png)
 
 I haven't used excel in any real capacity since leaving my Associate Equity Analyst role at Morningstar in September, so this was a throwback to those times. Luckily, the important keyboard shortcuts are still with me, so that's good. May be I'm just cheery because this spreadsheet is super lightweight and excel couldn't find a reason to crash. Ha!
 

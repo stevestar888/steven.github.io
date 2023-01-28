@@ -4,10 +4,21 @@ title: What I'm Learning
 subtitle: courses, books, projects, etc.
 ---
 
-# 2021
+# 2023
 
-# 2020
-* COVID-19 Contact Tracing (Coursera)
+# 2022
+* Flash Boys: A Wall Street Revolt - Michael Lewis
+* The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness - Morgan Housel
+* CFA Level 1
+  * Quantitative Methods
+  * Micro & Macro Econ
+  * Financial Statement Analysis
+  * Corporate Issuers
+  * Fixed Income
+  * Alternative Investments
+  * Derivatives
+  * Portfolio Management
+  * Ethics
 
 # Courses at College
 ### Computer Science
